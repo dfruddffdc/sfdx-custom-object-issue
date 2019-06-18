@@ -59,6 +59,7 @@
     </nameField>
     <pluralLabel>Example Objects</pluralLabel>
     <searchLayouts/>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
