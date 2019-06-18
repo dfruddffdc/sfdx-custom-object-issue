@@ -1,7 +1,9 @@
 {
 	"orgName": "Example",
 	"edition": "Developer",
-	"features": [],
+	"features": [
+		"ExternalSharing"
+	],
 	"settings": {
 		"orgPreferenceSettings": {
 			"s1DesktopEnabled": true
